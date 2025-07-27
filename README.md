@@ -16,20 +16,6 @@ It allows you to collect form submissions and store them automatically in a Goog
 - ✅ Lightweight and easy to deploy  
 - ✅ Works with any modern browser  
 
-## 📂 Project Structure
-```
-
-HTMLtoSheet/
-├── assets/
-│   └── favicon\_io/      # Favicon assets
-├── index.html           # Main HTML form file
-└── README.md            # Project documentation
-
-````
-
-## 🔗 Live Google Sheet
-You can view the connected Google Sheet here:  
-[**Google Sheet Link**](https://docs.google.com/spreadsheets/d/1j-umDZxyXL4ct5whnhY6SDBTqU_CQRJm9ipldTwKMn0/edit?usp=sharing)
 
 ## 🛠️ How to Use
 1. Clone the repository:
